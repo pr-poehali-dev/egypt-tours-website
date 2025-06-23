@@ -11,7 +11,7 @@ const Footer = () => {
                 <span className="text-egyptian-dark font-bold text-lg">🏺</span>
               </div>
               <h3 className="text-xl font-montserrat font-bold text-egyptian-gold">
-                Фараон Тур
+                ADELTOUR
               </h3>
             </div>
             <p className="text-egyptian-cream mb-4 max-w-md">
@@ -61,7 +61,7 @@ const Footer = () => {
 
         <div className="border-t border-egyptian-gold mt-8 pt-8 text-center">
           <p className="text-egyptian-cream text-sm">
-            © 2024 Фараон Тур. Все права защищены. Лицензия туроператора РТО
+            © 2024 ADELTOUR. Все права защищены. Лицензия туроператора РТО
             123456
           </p>
         </div>

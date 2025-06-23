@@ -10,7 +10,7 @@ const Header = () => {
             <span className="text-egyptian-dark font-bold text-lg">🏺</span>
           </div>
           <h1 className="text-xl font-montserrat font-bold text-egyptian-gold">
-            Фараон Тур
+            ADELTOUR
           </h1>
         </div>
 

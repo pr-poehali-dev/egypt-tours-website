@@ -9,7 +9,7 @@ const AboutSection = () => {
           <div className="animate-fade-in">
             <h2 className="text-4xl md:text-5xl font-montserrat font-bold text-egyptian-dark mb-6">
               О компании
-              <span className="block text-egyptian-gold">«Фараон Тур»</span>
+              <span className="block text-egyptian-gold">«ADELTOUR»</span>
             </h2>
 
             <p className="text-lg text-gray-700 mb-6 leading-relaxed">
